@@ -1,0 +1,14 @@
+title: The Unrefined Corner
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Thoughts on life, the universe and everything
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+port: 8080
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/

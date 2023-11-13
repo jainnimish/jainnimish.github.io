@@ -32,13 +32,13 @@ The second problem. Coolness.
 
 Let's take the current hot topic: machine learning. At a lot of student-led or hackthons for students, there's a lot of projects involving machine learning. Some aiming to cure cancer by detecting it with a CNN, others making driving safer by using a Arduino with a prebuilt Tensorflow model to monitor blindspots. 
 
-Now two things. First notice the word **prebuilt** there. A lot of people are using easily accessible models pretrained and then claiming to have used "machine learning." But what they've really done is use an API to query the model and use it's output. In my opinion, that's not machine learning. To me, it's almost plagarism, taking someone else's work and copy-pasting it. While that person actually understood the low-level concepts to create something beautiful, this person simply *used* it without contributing anything to the work. Instantiating a machine learning model ***doesn't*** mean you know machine learning. And in the grand scheme of things, this leads to a bigger problem - when you show your work to people who don't know a thing about machine learning, they think "ah this is cool" and further encourage you to keep it up. This is a false infinite staircase, because you'll think what you are doing is truly amazing and keep flipping out these silly projects.
+Now two things. First notice the word **prebuilt** there. A lot of people are using easily accessible models pretrained and then claiming to have used "machine learning." But what they've really done is use an API to query the model and use it's output. In my opinion, that's not machine learning. To me, it's almost plagiarism, taking someone else's work and copy-pasting it. While that person actually understood the low-level concepts to create something beautiful, this person simply *used* it without contributing anything to the work. Instantiating a machine learning model ***doesn't*** mean you know machine learning. And in the grand scheme of things, this leads to a bigger problem - when you show your work to people who don't know a thing about machine learning, they think "ah this is cool" and further encourage you to keep it up. This is a false infinite staircase, because you'll think what you are doing is truly amazing and keep flipping out these silly projects.
 
 The second is usability. These one day or side projects are often used as a way to boost résumés. Most of these easy ideas have already been addressed in proper research, that is, this work is not applicable in the real world. 
 
 Both these comments lead to the topic of passion. These days, most high school students are far too busy hyping up their résumé, they're willing to gamble on any trail that promises some results at the end. Something worthwhile.
 
-But what they don't realize is after university admissions, these acitivites are worthless. So, the question is, why devote so much time doing something that you'll never remember anyway?
+But what they don't realize is after university admissions, these activities are worthless. So, the question is, why devote so much time doing something that you'll never remember anyway?
 
 
 

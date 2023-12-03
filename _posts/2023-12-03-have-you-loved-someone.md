@@ -17,7 +17,7 @@ I "love" you because ...
 Generic reasons:
 - Nice, thoughtful, ...
 
-To put it in Will-Hunting style, I think there's a certainty in life. You can tell me all the reasons you love someone. But, if I ask you one simple question: Why do you love that person? I'm willing to bet that your reasons will align perfectly with the aforementioned ones.
+To put it in Will-Hunting style, I think there's a certainty in life. You can tell me all about what it means to love someone. But, if I ask you one simple question: Why do you love that person? I'm willing to bet that your reasons will align perfectly with the aforementioned ones.
 
 I think love is just a misnomer with layers of abstraction. So, have you dared to love anyone, then?
 

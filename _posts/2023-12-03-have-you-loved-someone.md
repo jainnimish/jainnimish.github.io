@@ -11,11 +11,13 @@ Somehow, this led to a flashback to The Wolf of Wall Street. More specifically, 
 I've observed a couple of things when I look at other people:
 
 I "love" you because ...
-- Look good
-- Money
+- Look good.
+- Money.
+- ̃Nice car.
+- Nice house.
 
 Generic reasons:
-- Nice, thoughtful, ...
+- Kind, thoughtful, ...
 
 To put it in Will-Hunting style, I think there's a certainty in life. You can tell me all about what it means to love someone. But, if I ask you one simple question: Why do you love that person? I'm willing to bet that your reasons will align perfectly with the aforementioned ones.
 

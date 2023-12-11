@@ -69,6 +69,8 @@ Finally, this boils down to:
 b\sigma = \sqrt{\frac{\sum{}(X_{i} - \mathbb{E}[X])^{2}}{N}}
 \end{equation}
 
+From this, it is straightforward to see why variance has a $b^2$.
+
 ### Second question
 \begin{align}
     \sigma^{2} = \sum_{}(X_{i} - \mathbb{E}[X])^{2}P(X_{i}) = \sum_{}(X_{i})^{2}P(X_{i}) - \mathbb{E}[X]^{2}

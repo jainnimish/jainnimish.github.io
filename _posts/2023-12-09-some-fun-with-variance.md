@@ -52,7 +52,7 @@ $$
 \begin{align}
 \sigma &=  
     \sqrt{
-        \frac{\sum{}(bX_{i} - \mathbb{E}[bX])^{2}}{N}
+        \frac{\sum{}(bX_{i} - b\mathbb{E}[X])^{2}}{N}
     }\\[8pt]
     &= \sqrt{
         \frac{\sum{}(b(X_{i} - \mathbb{E}[X]))^{2}}{N}

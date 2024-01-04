@@ -70,6 +70,4 @@ Drawing the computational graph for that intermediate variable might get you som
 
 Overally, backprop was quite hard for me initially. With time, you start to observe some of these behaviours and develop tricks for them. I would recommend trying to do backprop on actual loss functions or common layers. I found it hard to persist despite not getting the answer for 3-4 hours, but stick with it.
 
-I found this [lecture](https://www.youtube.com/watch?v=q8SA3rM6ckI) by Andrej very useful. Time to become a **BACKPROP NINJA!** 
-
-~~*So you can use Torch without guilt.*~~
+I found this [lecture](https://www.youtube.com/watch?v=q8SA3rM6ckI) by Andrej very useful.

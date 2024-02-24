@@ -106,7 +106,7 @@ $$
 \end{align}
 $$
 
-Unsurprisingly, changing the summation sign to an integral leads to the variance formula for continuous variables.
+Changing the summation sign to an integral leads to the variance formula for continuous variables.
 
 \begin{equation}
     \sigma^{2} = \int{}{X_{i}^{2}P(X_{i})} - \mathbb{E}[X]^{2}

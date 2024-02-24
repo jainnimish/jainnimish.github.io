@@ -3,21 +3,19 @@ layout: post
 title:  "Something to die for?"
 ---
 
-What do you want to be when you grow up? Everyone's heard this question and thought of a fantasy job. In the end, though, people just want money. 
+What do you want to be when you grow up? Everyone's heard this question and thought of a fantasy job. In the end, though, most people just want money. 
 
-I'll cut to the chase. If all you want is money, don't read ahead.
+I'll cut to the chase.
 
 - Does what you do matter? Is there skill involved in the profession. Anything that has a 100% success rate after you receive training, isn't a skill-based profession. If anyone can do it and you are not special, then you're just wasting your time.
 - This is easy to say but die to wake up next day and work. These folks don't know what the time is. Work is pleasure. I say this a lot to my friends, and oftentimes the reply back is "I don't know what I love." If that's your reply, then I'm afraid no one knows the answer. My question to you is are you willing to take a step in the perpetual machine of mundanity and do a mediocre job you don't care about for 60 years?
-- Do you want to be the best at what you do? These dumb skills - kindness, compassion are never fruitful. The world is a place of ruthless, constant change. Not only do you have to want to be the best, but actually do stuff to reach there. Impact, not intent ;)
+- Do you want to be the best at what you do? These dumb skills - kindness, compassion are never as fruitful as skill. The world is a place of ruthless, constant change. Not only do you have to want to be the best, but actually do stuff to reach there. Impact, not intent ;)
 
-My main thought is if what you do could be done by a robot in the upcoming years, then do you really have something to live for? (There's a section after this, but due to CSS spacing, it appears as if the post has ended here.)
+My main thought is if what you do could be done by a robot in the upcoming years, then do you really have something to live for?
 
 ### Activities.
 
 I'm unsure as to why, but I love digressing about resumes. Especially as a high-schooler, where the length people go to just to save resumes is satirical. 
-
-Please, you are not helping the community. WTH is the community? (seperate digression in another post later).
 
 A list of "activities" that send me into oblivion:
 - Why organize events that are useless?
@@ -29,7 +27,7 @@ A list of "activities" that send me into oblivion:
     - If this issue is already being addressed on a global scale, then why are you doing it? I've seen countless "startups" with the goal of teach you X in Y time. Is this a joke? No really, is this a joke?
 - Science fairs. No. [Please]({% post_url 2023-05-20-are-science-fairs-broken %}).
 - Participating in most other clubs/organizations that are school-affiliated. Examples are DECA, HOSA, etc..
-    - What have you gained? Is this going to make you a "successful" individual? Will you be able to produce a unicorn startup for me now? Or will you solve global hunger, perhaps?
+    - What have you gained? Is this going to make you a "successful" individual? Will you be able to produce a unicorn startup for me with your knowledge in every area of business?
     - Does it align with you goals and ultimately what you want to do in life?
 
 It doesn't matter what you do. If you are the best at it, companies will want you to work for them. They'll come for you. Being awesome at 1 thing is infinity times better than doing 10 things in a mediocre state. Pawn of all trades, Master of none.

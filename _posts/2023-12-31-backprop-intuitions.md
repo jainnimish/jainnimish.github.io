@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intuitions for Backpropogation"
+title:  "Intuitions on Backpropogation"
 ---
 
 Understanding the raw concept of backprop is relatively easy. However, implementing some of the functions in vectorized `numpy` code was very challenging. These are some of my notes to break the problems into subcategories and addressing them accordingly.

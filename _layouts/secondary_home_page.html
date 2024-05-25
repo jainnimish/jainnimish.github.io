@@ -1,0 +1,25 @@
+---
+layout: secondary_path
+---
+
+<div class="home">
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">Today I Did</h2>
+    {{ content }}
+    <ul class="post-list">
+      {% for tag in site.tags %}
+        {% for post in tag[1] %}
+          <li>
+              <div class="post-flex">
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+              </a>
+              <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
+              </div>
+          </li>
+        {% endfor %}
+      {% endfor %}
+    </ul>
+  {%- endif -%}
+
+</div>
